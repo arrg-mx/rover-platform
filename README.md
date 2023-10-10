@@ -1,7 +1,5 @@
 # ARRG: Curso ROS2 Humble, 2024-I  - Rover wheeled platform - chassis, suspension and, transmision.
 
----
-
 ## Contenido
 
 - [Desarrollo](#desarrollo)
