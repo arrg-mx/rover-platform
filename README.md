@@ -25,8 +25,6 @@
 
 ### ¿Dónde empezar?
 
-
-
 1. **M2020 Perseverance Rover and Helicopter URDF models ** [Github repository](https://github.com/nasa-jpl/m2020-urdf-models) *Sólo modelo* **URDF**
 1. *The new NASA-JPL Open-Source Mars Rover is here* [ROS Discourse news](https://discourse.ros.org/t/the-new-nasa-jpl-open-source-mars-rover-is-here/33650/1). Published Sep 20, 2023
   - **JPL Open Source Rover Project** [Github repository](https://github.com/nasa-jpl/open-source-rover). El proyecto contiene la base móvil solamente.
