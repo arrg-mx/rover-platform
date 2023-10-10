@@ -8,6 +8,8 @@
 
 ## Desarrollo
 
+**Nota:** En este proyecto **sólo se simulará el brazo de la plataforma móvil del rover**
+
 - [ ] Documentación y justificación de la configuración del robot.
 - [ ] Planteamiento de la simulación
 	- [ ] Evaluación del material disponible,
