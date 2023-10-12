@@ -32,10 +32,10 @@
 
 | Nombre | Observaciones |
 | :----------| :----------- |
-| Rojas Troncoso Marcelo | *por definir* | 
-| Tzintzun Rico Sara Cecilia | *por definir* | 
-| Millán Morales Gerardo | *por definir* | 
-| Rodríguez Castillo Lorena Guadalupe | *por definir* |
+| Rojas Troncoso Marcelo | **responsable** | 
+| Tzintzun Rico Sara Cecilia | | 
+| Millán Morales Gerardo | | 
+| Rodríguez Castillo Lorena Guadalupe | |
 
 ## Referencias
 
